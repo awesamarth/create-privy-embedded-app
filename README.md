@@ -37,7 +37,7 @@ The generated project includes:
 - **Privy** embedded wallet integration
 - **Wagmi** and **Viem** for Web3 interactions
 - **Tailwind CSS** for styling
-- **Multi-chain support** (MegaETH and RISE testnets)
+- **Multi-chain support** (all chains in Viem + more)
 - **Dark/light theme** toggle
 - **Responsive design**
 - **Transaction examples**
